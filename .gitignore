@@ -1,2 +1,6 @@
 *.csv
 a.sh
+*.key
+*.txt
+*.pickle
+.DS_Store
